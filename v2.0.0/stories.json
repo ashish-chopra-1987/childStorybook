@@ -14,6 +14,20 @@
         "__id": "task--default",
         "__isArgsStory": true
       }
+    },
+    "task--pinned": {
+      "id": "task--pinned",
+      "name": "Pinned",
+      "title": "Task",
+      "importPath": "./src/stories/Task.stories.js",
+      "kind": "Task",
+      "story": "Pinned",
+      "parameters": {
+        "fileName": "./src/stories/Task.stories.js",
+        "framework": "react",
+        "__id": "task--pinned",
+        "__isArgsStory": true
+      }
     }
   }
 }
