@@ -28,20 +28,6 @@
         "__id": "task--pinned",
         "__isArgsStory": true
       }
-    },
-    "task--archived": {
-      "id": "task--archived",
-      "name": "Archived",
-      "title": "Task",
-      "importPath": "./src/stories/Task.stories.js",
-      "kind": "Task",
-      "story": "Archived",
-      "parameters": {
-        "fileName": "./src/stories/Task.stories.js",
-        "framework": "react",
-        "__id": "task--archived",
-        "__isArgsStory": true
-      }
     }
   }
 }
